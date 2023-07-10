@@ -1,6 +1,6 @@
 # Data Cleaning Using SQL
 
-In this project, I cleaned data from the Nashville housing market to be used for further analysis. 
+In this project, I cleaned raw data from the Nashville housing market to be used for further analysis. 
 
 ### Cleaning Tasks
 
